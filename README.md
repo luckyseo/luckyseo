@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Yun
 
-<!--
-**luckyseo/luckyseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year IT student at UTS (Enterprise Systems + Data Analytics)  
+💻 Software Engineer Intern (Collage & TestChimp)  
+🚀 Passionate about building scalable backend systems and developer tools  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Java, C#, JavaScript, Python  
+- **Frameworks:** Spring Boot, ASP.NET, React  
+- **Tools:** Git, PostgreSQL, Azure DevOps, Vercel  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 UniCircle
+Full-stack student community platform inspired by Everytime  
+- ReactJS + Spring Boot  
+- CI/CD with Azure DevOps  
+👉 Focus: scalable architecture & user interaction  
+
+---
+
+### 🔹 Code-Delta Testing System (TestChimp)
+Optimises test execution based on code changes  
+- Spring Boot + React  
+- GitHub API + Protocol Buffers  
+👉 Focus: improving testing efficiency  
+
+---
+
+### 🔹 QR Code Generator
+Serverless web app for instant QR generation  
+- React + Vite  
+👉 Focus: lightweight architecture & performance  
+
+---
+
+## 🧠 What I’m Interested In
+- Developer tools & automation  
+- Scalable system architecture  

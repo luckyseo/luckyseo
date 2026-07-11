@@ -3,7 +3,8 @@
 🚀 Looking for interesting, passionate projects I could work on 👀
 
 📍Sydney, Australia
-🎓 Bachelor of IT @UTS (2024 July - 2026 JUNE) Major: Enterprise Systems Sub-major: Data Analytics)  
+
+🎓 Bachelor of IT @UTS (2024 July - 2026 JUNE) Major: Enterprise Software Development, Sub-major: Data Analytics)  
 
 💻 Experiences
 - Backend Developer Intern @Collage

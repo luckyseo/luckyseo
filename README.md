@@ -1,8 +1,34 @@
 # 👋 Hi, I'm Yun
 
-🎓 Final-year IT student at UTS (Enterprise Systems + Data Analytics)  
-💻 Software Engineer Intern (Collage & TestChimp)  
-🚀 Passionate about building scalable backend systems and developer tools  
+🚀 Looking for interesting, passionate projects I could work on 👀
+
+📍Sydney, Australia
+🎓 Bachelor of IT @UTS (2024 July - 2026 JUNE) Major: Enterprise Systems Sub-major: Data Analytics)  
+
+💻 Experiences
+- Backend Developer Intern @Collage
+- Software Engineer Intern @TestChimp
+  
+🏫Uni Projects
+- K-Wave-data (HUFS) Java
+- K-Wave-website (HUFS) HTML/CSS/JS
+- UniCircle (UTS) Java/ReactJS
+- IFridge (UTS) C#
+- Hospital-Management System (UTS) C#
+- IoTBay (UTS) Java
+
+👩‍💻Projects
+- UXID Website | React(TS)
+- QR-code-generator | JS
+- (Coming soon ... 😎) 
+
+✅What do I like?
+- Cat, Sunnay weather, Park, spicy tteokbokki, sushi, claude/GPT, yellow light, Coffee, Matcha, Music, Drive(as a passenger... don't want to cause an accident)
+
+🗯️Languages
+- English(Proficient)
+- Korean(Native)
+- Thinking of learning either Japanese or Chinese 
 
 ---
 

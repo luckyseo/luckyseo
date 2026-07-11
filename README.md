@@ -24,7 +24,7 @@
 - (Coming soon ... 😎) 
 
 ✅What do I like?
-- Cat, Sunnay weather, Park, spicy tteokbokki, sushi, claude/GPT, yellow light, Coffee, Matcha, Music, Drive(as a passenger... don't want to cause an accident)
+- Cat, Sunny weather, Park, spicy tteokbokki, sushi, claude/GPT, yellow light, Coffee, Matcha, Music, Drive(as a passenger... don't want to cause an accident)
 
 🗯️Languages
 - English(Proficient)

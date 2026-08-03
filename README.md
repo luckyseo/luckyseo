@@ -13,8 +13,8 @@
 🏫Uni Projects
 - K-Wave-data (HUFS) Java
 - K-Wave-website (HUFS) HTML/CSS/JS
-- UniCircle (UTS) Java/ReactJS
-- IFridge (UTS) C#
+- UniCircle (UTS) SpringBoot/ReactJS 
+- IFridge (UTS) ASP.NET Core/Blazor
 - Hospital-Management System (UTS) C#
 - IoTBay (UTS) Java
 
@@ -27,9 +27,9 @@
 - Cat, Sunny weather, Park, spicy tteokbokki, sushi, claude/GPT, yellow light, Coffee, Matcha, Music, Drive(as a passenger... don't want to cause an accident)
 
 🗯️Languages
-- English(Proficient)
+- English(Fluent)
 - Korean(Native)
-- Thinking of learning either Japanese or Chinese 
+- Thinking of learning either Japanese or Chinese
 
 ---
 

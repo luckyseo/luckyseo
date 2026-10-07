@@ -21,7 +21,8 @@
 👩‍💻Projects
 - UXID Website | React(TS)
 - QR-code-generator | JS
-- (Coming soon ... 😎) 
+- Portfolio website [https://luckyseo.github.io/] | Next.js · Claude
+- 14th BigContest2026 | Data Analytics ·Python · AI Agents
 
 ✅What do I like?
 - Cat, Sunny weather, Park, spicy tteokbokki, sushi, claude/GPT, yellow light, Coffee, Matcha, Music, Drive(as a passenger... don't want to cause an accident)
